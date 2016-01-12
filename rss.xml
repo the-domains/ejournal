@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[eJournal]]></title>
+        <description><![CDATA[eJournal]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jan 2016 09:40:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A New Journey]]></title>
+            <description><![CDATA[<article><h1>A New Journey</h1><p>So, here we go. Another tiny footprint on the vast landscape of cyberspace. Does anyone say cyberspace any more? The other day our twelve year old daughter said "you're so old - you were born in the 1900s." Yes, just a tad older than the original Star Wars is getting up there I suppose. How clever is this Grid? A trail of micro-experiments in e-journaling might shed some light. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05d055992d0cfd1e3db55157daaf8b7a6f141bf2.jpg"></article>]]></description>
+            <link>undefineda-new-journey/index.html</link>
+            <guid isPermaLink="false">7fb89bdb-b8ed-45c1-9b63-7f0e14e994bb</guid>
+            <pubDate>Tue, 12 Jan 2016 09:39:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
